@@ -119,8 +119,6 @@ def create_xml(config,data,tags):
   
   try: 
     
-    global config
-    global tags 
     global depth_tag
 
     depth_tag = {

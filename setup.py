@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1'
+VERSION = '0.0.3'
 DESCRIPTION = 'etlassist is a python package supporting ETL operations'
 LONG_DESCRIPTION = 'etlassist can be used with general python and the functions used can also be extended as UDF for the databricks opertaions.'
 
