@@ -115,7 +115,7 @@ def _appender( config , data , tag , base_value ):
   
 
 # main function to be used for the cml creation
-def create_xml(data):
+def create_xml(config,data,tags):
   
   try: 
     
